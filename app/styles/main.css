@@ -187,6 +187,11 @@ input.inputCity {
   margin-right: 5%;
 }
 
+.settingAlignment {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
 #swipeMenuBackground {
   position: absolute;
   top: 0;
@@ -199,4 +204,8 @@ input.inputCity {
 
 #goWeather:hover {
   background: gray;
+}
+
+.row {
+  margin-top: 2rem;
 }
